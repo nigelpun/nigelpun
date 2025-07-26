@@ -2,8 +2,6 @@
 - 👀 I’m interested in creating AI chatbot experiences.
 - 🌱 I’m currently learning ML Python.
 - 💞️ I’m looking to collaborate on AI projects.
-- 📫 How to reach me [www.linkedin.com/nigelpun](https://www.linkedin.com/in/nigelpun/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge sci-fi fan.
 
 <!---
